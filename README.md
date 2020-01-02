@@ -1,4 +1,4 @@
-# legal-nlp-papers
+# Legal NLP Papers
 
 A repository of legal NLP research papers.
 
