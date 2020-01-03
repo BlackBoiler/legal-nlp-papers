@@ -12,7 +12,9 @@ A repository of legal NLP research papers.
 
 [Information Extraction](INFORMATION_EXTRACTION.md)
 
-[Litigation Analytics](Litigation_Analytics.md)
+[Litigation Analytics](LITIGATION_ANALYTICS.md)
+
+[Other](OTHER.md)
 
 [Summarization](SUMMARIZATION.md)
 
