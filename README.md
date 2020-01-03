@@ -2,9 +2,15 @@
 
 A repository of legal NLP research papers.
 
+[Annotation](ANNOTATION.md)
+
 [Classification](CLASSIFICATION.md)
 
 [Contributing](CONTRIBUTING.md)
+
+[Corpus Linguistics](CORPUS_LINGUISTICS.md)
+
+[Litigation_Analytics](Litigation_Analytics.md)
 
 [Summarization](SUMMARIZATION.md)
 
@@ -38,14 +44,8 @@ Language Processing and Document Curation Services* In the Natural Language Lega
 > In legal due diligence, lawyers identify a variety of topic instances in a company’s contracts that may pose risk during a transaction. In this paper, we present a study of 9 lawyers conducting a simulated review of 50 contracts for five topics. We find that lawyers agree on the general location of relevant material at a higher rate than in other assessor agreement studies, but they do not entirely agree on the extent of the relevant material. Additionally, we do not find strong differences between lawyers who have differing levels of due diligence expertise.
 > If we train machine learning models to identify these topics based on each user’s judgments, the resulting models exhibit similar levels of agreement between each other as to the lawyers that trained them. This indicates that these models are learning the types of behaviour exhibited by their trainers, even if they are doing so imperfectly. Accordingly, we argue that additional work is necessary to improve the assessment process to ensure that all parties agree on identified material.
 
-[Adam Roegiest and Anne McNulty. 2019. *Variations in Assessor Agreement in Due Diligence.* In 2019 Conference on Human Information Interaction and Retrieval (CHIIR ’19), March 10–14, 2019, Glasgow, United Kingdom. ACM, New York, NY, USA, 5 pages.](https://doi.org/10.1145/3295750.3298945)
-> In legal due diligence, lawyers identify a variety of topic instances in a company’s contracts that may pose risk during a transaction. In this paper, we present a study of 9 lawyers conducting a simulated review of 50 contracts for five topics. We find that lawyers agree on the general location of relevant material at a higher rate than in other assessor agreement studies, but they do not entirely agree on the extent of the relevant material. Additionally, we do not find strong differences between lawyers who have differing levels of due diligence expertise.
-> If we train machine learning models to identify these topics based on each user’s judgments, the resulting models exhibit similar levels of agreement between each other as to the lawyers that trained them. This indicates that these models are learning the types of behaviour exhibited by their trainers, even if they are doing so imperfectly. Accordingly, we argue that additional work is necessary to improve the assessment process to ensure that all parties agree on identified material.
 
 
-[Adam Roegiest, Alexander K. Hudek, and Anne McNulty. 2018. *A Dataset and an Examination of Identifying Passages for Due Diligence.* In SIGIR ’18: The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, July 8–12, 2018, Ann Arbor, MI, USA. ACM, New York,NY, USA, 10 pages.](https://doi.org/10.1145/3209978.3210015)
-> We present and formalize the due diligence problem, where lawyers extract data from legal documents to assess risk in a potential merger or acquisition, as an information retrieval task. Furthermore, we describe the creation and annotation of a document collection for the due diligence problem that will foster research in this area. This dataset comprises 50 topics over 4,412 documents and ~15 million sentences and is a subset of our own internal training data.
-> Using this dataset, we present what we have found to be the state of the art for information extraction in the due diligence problem. In particular, we find that when treating documents as sequences of labelled and unlabelled sentences, Conditional Random Fields significantly and substantially outperform other techniques for sequence-based (Hidden Markov Models) and non-sequence based machine learning (logistic regression). Included in this is an analysis of what we perceive to be the major failure cases when extraction is performed based upon sentence labels.
 
 [Adam Roegiest and Winter Wei. 2018. *Redesigning a Document Viewer for Legal Documents.* In CHIIR ’18: 2018 Conference on Human Information Interaction & Retrieval, March 11–15, 2018, New Brunswick, NJ, USA. ACM, New York, NY, USA, 4 pages.](https://doi.org/10.1145/3176349.3176873)
 > In Mergers and Acquisition due diligence, lawyers are tasked with analyzing a collection of contracts and determine the level of risk that comes from a merger or acquisition. This process has historically been manual and resulted in only a small fraction of the collection being examined. This paper reports on the user-focused redesign of our document viewer that is used by clients to review documents and train machine learning algorithms to find pertinent information from these contracts.
