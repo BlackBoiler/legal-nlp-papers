@@ -10,6 +10,8 @@ A repository of legal NLP research papers.
 
 [Corpus Linguistics](CORPUS_LINGUISTICS.md)
 
+[Information Extraction](INFORMATION_EXTRACTION.md)
+
 [Litigation_Analytics](Litigation_Analytics.md)
 
 [Summarization](SUMMARIZATION.md)
