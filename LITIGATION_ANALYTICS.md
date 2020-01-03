@@ -1,4 +1,7 @@
 
+
+LITIGATION ANALYTICS
+
 [Vacek, T., Teo, R., Song, D., Cowling, C., Schilder, F., and Nugent T. *Litigation Analytics: Case outcomes extracted from US Federal court dockets* In the Natural Language Legal Processing (NLLP) Workshop, NAACL 2019, Minneapolis, MN.](https://www.aclweb.org/anthology/W19-2206.pdf)
 > Dockets contain a wealth of information for planning a litigation strategy, but the information is locked up in semi-structured text. Manually deriving the outcomes for each party (e.g., settlement, verdict) would be very labor intensive. Having such information available for every past court case, however, would be very useful for developing a strategy because it potentially reveals tendencies and trends of judges and courts and the opposing counsel. We used Natural Language Processing (NLP) techniques and deep learning methods allowing us to scale the automatic analysis of millions of US federal court dockets. The automatically extracted information is fed into a Litigation Analytics tool that is used by lawyers to plan how they approach concrete litigations.
 
