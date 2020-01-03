@@ -3,10 +3,10 @@
 A repository of legal NLP research papers.
 
 [Contributing](CONTRIBUTING.md)
+
 [Classification](CLASSIFICATION.md)
 
-[Manor, L and Li, J. (2019) *Plain English Summarization of Contracts*. In the Natural Language Legal Processing (NLLP) Workshop, NAACL 2019, Minneapolis, MN.](https://www.aclweb.org/anthology/W19-2201.pdf)
-> Unilateral legal contracts, such as terms of service, play a substantial role in modern digital life. However, few read these documents before accepting the terms within, as they are too long and the language too complicated. We propose the task of summarizing such legal documents in plain English, which would enable users to have a better understanding of the terms they are accepting. We propose an initial dataset of legal text snippets paired with summaries written in plain English. We verify the quality of these summaries manually, and show that they involve heavy abstraction, compression, and simplification. Initial experiments show that unsupervised extractive summarization methods do not perform well on this task due to the level of abstraction and style differences. We conclude with a call for resource and technique development for simplification and style transfer for legal language.
+
 
 [Ferro, L., Aberdeen, J., Branting, K., Pfeifer, C., Yeh, A., and Chakraborty, A. (2019) *Scalable Methods for Annotating Legal-Decision Corpora* In the Natural Language Legal Processing (NLLP) Workshop, NAACL 2019, Minneapolis, MN.](https://www.aclweb.org/anthology/W19-2202.pdf)
 > Recent research has demonstrated that judicial and administrative decisions can be predicted by machine-learning models trained on prior decisions. However, to have any practical application, these predictions must be explainable, which in turn requires modeling a rich set of features. Such approaches face a roadblock if the knowledge engineering required to create these features is not scalable. We present an approach to developing a feature-rich corpus of administrative rulings about domain name disputes, an approach which leverages a small amount of manual annotation and prototypical patterns present in the case documents to automatically extend feature labels to the entire corpus. To demonstrate the feasibility of this approach, we report results from systems trained on this dataset.
